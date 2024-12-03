@@ -1,5 +1,3 @@
-### Hi there 🐹
-
 ![Macmod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macmod&show_icons=true&theme=dark)
 
 
